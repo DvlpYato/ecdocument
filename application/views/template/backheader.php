@@ -43,7 +43,6 @@
 	<div class="wrapper">
 		<!-- Main Header -->
 		<header class="main-header">
-
 			<!-- Logo -->
 			<a href="<?php base_url(); ?>" class="logo">
 				<!-- mini logo for sidebar mini 50x50 pixels -->
